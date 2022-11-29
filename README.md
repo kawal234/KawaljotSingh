@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFQhrEs6Mg/DUt6WGuQGWxRpMwKKnd22Q/view?utm_content=DAFQhrEs6Mg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+![logo](https://github.com/kawal234/KawaljotSingh/blob/main/New%20Template.png)
 <h1 align="center">Hi 👋, I'm Kawaljot Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
